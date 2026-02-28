@@ -11,15 +11,11 @@ Configure API routes (/api/projects, /api/tasks)
 
 Start server (npm run dev)
 
-Backend runs on: http://localhost:5000
-
 Step 2: Frontend Initialization
 
 Install client dependencies
 
 Start Vite server (npm run dev)
-
-React runs on: http://localhost:5173
 
 API calls automatically proxied to backend
 
@@ -172,3 +168,4 @@ Collaborate with Comments
 Monitor Analytics
 
 View Timeline in Gantt
+
